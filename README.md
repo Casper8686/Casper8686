@@ -29,6 +29,6 @@ Thank you for your time and consideration."</h1>
 ☁️ DevOps:         Docker, GitHub Actions  
 
 
-<h2>Contact:</h2>
-<h2>Email: caspersmart721@gmail.com</h2>
-<h2>Phone/WhatsApp: [+62 822-1917-4407]</h2>
+Contact:
+Email: caspersmart721@gmail.com
+Phone/WhatsApp: [+62 822-1917-4407]
