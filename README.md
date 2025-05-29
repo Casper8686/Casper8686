@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Casper</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 <h1>"I am a freelance programmer and developer with experience in Android Studio, seeking job opportunities to support my livelihood."</h1>
+<h1>I hope this message finds you well. I am a freelance programmer with experience in Android Studio, currently facing financial difficulties. I am sincerely looking for any job opportunities that could help me support my life. Your support would mean a lot to me.
+Thank you for your time and consideration."</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CasperDev&label=Profile%20views&color=0e75b6&style=flat" alt="CasperDev" />
 </p>
