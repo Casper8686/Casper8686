@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Kotlin | Spring Boot | Docker | AI with C++**
 - 👯 I’m looking to collaborate on **open-source projects and tech experiments**
 - 💬 Ask me about **React Native, Android, and IoT with Arduino**
-- 📫 How to reach me: **your_email@example.com**
+- 📫 How to reach me: **caspersmart721@gmail.com**
 - ⚡ Fun fact: I love mixing tech with real-world businesses!
 
 ---
