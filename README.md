@@ -19,6 +19,11 @@ Thank you for your time and consideration."</h1>
 ---
 
 
+
+
+
+
+
 - 🔭 I’m currently working on **mobile apps and backend systems**
 - 🌱 I’m currently learning **Kotlin | Spring Boot | Docker | AI with C++**
 - 👯 I’m looking to collaborate on **open-source projects and tech experiments**
