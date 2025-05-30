@@ -8,6 +8,7 @@ Thank you for your time and consideration."</h1>
 </p>
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black&link=https://buymeacoffee.com/Ramdhan494)](https://buymeacoffee.com/Ramdhan494)
 ---
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black&link=https://www.buymeacoffee.com/bmc_username)](https://www.buymeacoffee.com/bmc_username)
 
 - 🔭 I’m currently working on **mobile apps and backend systems**
 - 🌱 I’m currently learning **Kotlin | Spring Boot | Docker | AI with C++**
