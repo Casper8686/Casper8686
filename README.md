@@ -7,6 +7,8 @@ Thank you for your time and consideration."</h1>
   <img src="https://komarev.com/ghpvc/?username=CasperDev&label=Profile%20views&color=0e75b6&style=flat" alt="CasperDev" />
 </p>
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black&link=https://buymeacoffee.com/Ramdhan494)](https://buymeacoffee.com/Ramdhan494)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/Ramdhan494)
+
 ---
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black&link=https://www.buymeacoffee.com/bmc_username)](https://www.buymeacoffee.com/bmc_username)
 
