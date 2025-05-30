@@ -11,6 +11,11 @@ Kalau kamu suka project ini, kamu bisa dukung saya dengan:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/Ramdhan494)
 
+
+
+<a href="https://buymeacoffee.com/Ramdhan494" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" width="200"/>
+</a>
 ---
 
 
