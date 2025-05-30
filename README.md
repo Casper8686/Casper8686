@@ -6,7 +6,7 @@ Thank you for your time and consideration."</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CasperDev&label=Profile%20views&color=0e75b6&style=flat" alt="CasperDev" />
 </p>
-Kalau kamu suka project ini, kamu bisa dukung saya dengan:
+<p></p>Kalau kamu suka project ini, kamu bisa dukung saya dengan:</p>
 
 
 
