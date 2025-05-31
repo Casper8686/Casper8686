@@ -45,6 +45,13 @@ Thank you for your time and consideration."</h1>
 Contact:
 Email: caspersmart721@gmail.com
 Phone/WhatsApp: [+62 822-1917-4407 WA]
- 📷 Instagram: [![Instagram](https://img.shields.io/badge/Instagram-casper__it__solution-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/casper_it_solution/)
+ # Casper IT Solution
+
+## 📬 Contact
+
+📧 Email: [![Email](https://img.shields.io/badge/Email-caspersmart721@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caspersmart721@gmail.com)  
+📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282219174407)  
+📷 Instagram: [![Instagram](https://img.shields.io/badge/Instagram-casper__it__solution-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/casper_it_solution/)
+
 
 
