@@ -47,4 +47,5 @@ Thank you for your time and consideration."</h1>
 Contact:
 Email: caspersmart721@gmail.com
 Phone/WhatsApp: [+62 822-1917-4407 WA]
- 📷 Instagram: [![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://www.instagram.com/casper_it_solution/)
+ 📷 Instagram: [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg)](https://www.instagram.com/casper_it_solution/)
+
