@@ -16,6 +16,7 @@ Thank you for your time and consideration."</h1>
 <a href="https://buymeacoffee.com/Ramdhan494" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" width="200"/>
 </a>
+📷 Instagram: [![Instagram](https://img.shields.io/badge/Instagram-casper__it__solution-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/casper_it_solution/)
 
 
 
