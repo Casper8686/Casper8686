@@ -48,4 +48,3 @@ Contact:
 Email: caspersmart721@gmail.com
 Phone/WhatsApp: [+62 822-1917-4407 WA]
 Istagrtam : https://www.instagram.com/casper_it_solution/
-Facebook : 
